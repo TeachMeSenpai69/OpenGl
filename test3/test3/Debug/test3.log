@@ -1,0 +1,20 @@
+﻿  example1.cpp
+c:\users\arghya\source\repos\test3\test3\angel.h(65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\arghya\source\repos\test3\test3\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\arghya\source\repos\test3\test3\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\arghya\source\repos\test3\test3\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\arghya\source\repos\test3\test3\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\arghya\source\repos\test3\test3\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\arghya\source\repos\test3\test3\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\arghya\source\repos\test3\test3\mat.h(742): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  InitShader.cpp
+c:\users\arghya\source\repos\test3\test3\angel.h(65): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\arghya\source\repos\test3\test3\mat.h(698): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\arghya\source\repos\test3\test3\mat.h(699): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\arghya\source\repos\test3\test3\mat.h(700): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\arghya\source\repos\test3\test3\mat.h(721): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\arghya\source\repos\test3\test3\mat.h(723): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\arghya\source\repos\test3\test3\mat.h(726): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\arghya\source\repos\test3\test3\mat.h(742): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  test3.vcxproj -> C:\Users\arghya\source\repos\test3\Debug\test3.exe
